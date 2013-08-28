@@ -1,0 +1,14 @@
+/**
+ *  ___FILENAME___
+ *  ___PROJECTNAME___
+ *
+ * @author ___FULLUSERNAME___
+ * @date ___DATE___
+ */
+
+#ifndef _____PROJECTNAMEASIDENTIFIER________FILEBASENAMEASIDENTIFIER_____
+#define _____PROJECTNAMEASIDENTIFIER________FILEBASENAMEASIDENTIFIER_____
+
+
+
+#endif /* defined(_____PROJECTNAMEASIDENTIFIER________FILEBASENAMEASIDENTIFIER_____) */
